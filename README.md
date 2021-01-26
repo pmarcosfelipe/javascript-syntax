@@ -1,4 +1,4 @@
-# :books: Counter
+# :books: Javascript Syntax
 
 Project created to study Javascript Syntax using Object Oriented Programming<br>
 
